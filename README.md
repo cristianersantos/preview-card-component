@@ -1,7 +1,7 @@
-# 🛍️ Product Preview Card
+# 🛍️ Product Preview Card by Frontend Mentor
 
 Hey, world! 👋  
-This is my ✨**Product Preview Card**✨ — a user interface component built with pure **HTML and CSS**, designed to showcase a product with style and simplicity.
+This is my ✨**Product Preview Card**✨  a solution to the [Product preview card component challenge on Frontend Mentor — a user interface component built with pure **HTML and CSS**, designed to showcase a product with style and simplicity. 
 
 ---
 
