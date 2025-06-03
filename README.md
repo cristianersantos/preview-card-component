@@ -30,8 +30,7 @@ The idea is simple: create a mini product showcase with title, description, pric
 ## 🔍 Preview
 
 ![project preview](./images/desktop-responsive.png)
-![project preview](./images/mobile-responsive.png)
-
+<img src="./mobile-responsive.png" alt="Mobile version" width="300px"/>
 
 📱 Fully responsive from desktop to mobile. It adapts beautifully. ✨
 
