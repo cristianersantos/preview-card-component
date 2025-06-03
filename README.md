@@ -11,7 +11,7 @@ The idea is simple: create a mini product showcase with title, description, pric
 
 📦 **Built with:**
 - HTML5 (semantic and clean)
-- CSS3 (fully responsive)
+- CSS (fully responsive)
 - Google Fonts (modern typography)
 - SVG icon for the cart 🛒
 
@@ -42,5 +42,20 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/cristianersantos/product-preview-card
+
+## 🌐 Live Preview
+
+**Or you can visit here** 👉 [Click to see the live version](https://cristianersantos.github.io/preview-card-component/)
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Cristiane Santos**, just starting my web dev journey — and already loving the magic of code! 💻✨  
+Every line of HTML and CSS feels like a step into a new universe! 🌌
+
+- 🚀 GitHub: [@cristianersantos](https://github.com/cristianersantos)  
+- 💼 LinkedIn: [Cristiane Santos](https://www.linkedin.com/in/cristianesantossp/)
+
 
 
