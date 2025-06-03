@@ -36,16 +36,9 @@ The idea is simple: create a mini product showcase with title, description, pric
 
 ---
 
-## 🚀 How to Run
-
-Clone this repository:
-
-```bash
-git clone https://github.com/cristianersantos/product-preview-card
-
 ## 🌐 Live Preview
 
-**Or you can visit here** 👉 (https://cristianersantos.github.io/preview-card-component/)
+You can also check it out live here 👉 [https://cristianersantos.github.io/preview-card-component/](https://cristianersantos.github.io/preview-card-component/)
 
 ---
 
@@ -56,8 +49,6 @@ I'm **Cristiane Santos**, just starting my web dev journey — and already lovin
 - 🔗 GitHub: [@cristianersantos](https://github.com/cristianersantos)  
 - 💼 LinkedIn: [Cristiane Santos](https://www.linkedin.com/in/cristianesantossp/)
 
+---
 
 ### ✨ Thank you for reading!
-
-
-
