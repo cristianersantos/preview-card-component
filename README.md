@@ -45,7 +45,7 @@ git clone https://github.com/cristianersantos/product-preview-card
 
 ## 🌐 Live Preview
 
-**Or you can visit here** 👉 [Click to see the live version](https://cristianersantos.github.io/preview-card-component/)
+**Or you can visit here** 👉 (https://cristianersantos.github.io/preview-card-component/)
 
 ---
 
@@ -56,6 +56,8 @@ Every line of HTML and CSS feels like a step into a new universe! 🌌
 
 - 🚀 GitHub: [@cristianersantos](https://github.com/cristianersantos)  
 - 💼 LinkedIn: [Cristiane Santos](https://www.linkedin.com/in/cristianesantossp/)
+
+### ✨ Thank you for reading!
 
 
 
